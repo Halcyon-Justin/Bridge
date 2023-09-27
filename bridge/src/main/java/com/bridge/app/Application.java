@@ -1,13 +1,13 @@
-package com.bridge.bridge0_0_1;
+package com.bridge.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Bridge001Application {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Bridge001Application.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
